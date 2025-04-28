@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "879738262092",
+    "firebase_url": "https://fir-auth-4a084-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-auth-4a084",
+    "storage_bucket": "fir-auth-4a084.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879738262092:android:ff3848b79f3344fa865ae9",
+        "android_client_info": {
+          "package_name": "com.example.evercise_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4jQPNOxkJaS1gTJEM4Tr3qpt5D801jWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879738262092:android:37082aa019284364865ae9",
+        "android_client_info": {
+          "package_name": "com.example.naqiuddin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4jQPNOxkJaS1gTJEM4Tr3qpt5D801jWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
